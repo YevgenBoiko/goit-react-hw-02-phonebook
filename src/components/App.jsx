@@ -2,8 +2,8 @@ import React from 'react';
 import { Container, Section, Title } from './App.styled';
 import { Contacts } from './Contacts/Contacts';
 import { Filter } from './Filter/Filter';
-import Form from './Form/Form';
 import GlobalStyle from './GlobalStyle';
+import Form from './Form/Form';
 
 class App extends React.Component {
   state = {
